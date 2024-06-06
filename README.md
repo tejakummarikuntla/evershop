@@ -93,6 +93,9 @@ If you see an error message or run into an issue, please [create bug report](htt
 
 ### Submit a feature request
 
+
+
+
 If you have an idea, or you're missing a capability that would make development easier and more robust, please [Submit feature request](https://github.com/evershopcommerce/evershop/issues/new).
 
 If a similar feature request already exists, don't forget to leave a "+1".
